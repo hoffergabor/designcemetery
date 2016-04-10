@@ -11,3 +11,4 @@ Libraries used:
  - **codebird.js** to access Twitter: https://github.com/jublonet/codebird-js
  - **bootstrap** to make layouts easily: https://github.com/twbs/bootstrap
  - **animate.css** for easy animations: https://github.com/daneden/animate.css
+ - **jQuery** of course: https://github.com/jquery/jquery
